@@ -1,0 +1,8 @@
+streamlit
+langchain==0.3.17
+langchain-core==0.3.33
+langchain-groq==0.2.4
+langchain_community
+langchain_huggingface
+sentence-transformers
+python-dotenv
